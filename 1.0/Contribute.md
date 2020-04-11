@@ -12,7 +12,7 @@ It's very important that all information contributed to this repository is corre
 
 This documentation is all managed through a public GitHub repository. All are welcome to submit contributions via the git methods.
 
-### Suggested Method
+## Suggested Method
 
 Software: Typora
 

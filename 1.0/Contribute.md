@@ -22,7 +22,7 @@ Download: [Windows, Mac, & Linux](https://typora.io/#download)
 
 
 
-#### Typora
+### Typora
 
 Typora comes with a method of uploading images built in. It's default is PicGo sm.ms. You'll need to create an account there and obtain an API key.
 
@@ -30,7 +30,7 @@ API Token: [https://sm.ms/home/apitoken](https://sm.ms/home/apitoken)
 
 
 
-##### Configuration
+### Configuration
 
 Go to File > Preferences > Image 
 

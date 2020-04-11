@@ -16,8 +16,9 @@ This documentation is all managed through a public GitHub repository. All are we
 
 Software: Typora
 
-- Website: [Typora.io](https://typora.io/)
-- Download: [Windows, Mac, & Linux](https://typora.io/#download)
+Website: [Typora.io](https://typora.io/)
+
+Download: [Windows, Mac, & Linux](https://typora.io/#download)
 
 #### Typora
 

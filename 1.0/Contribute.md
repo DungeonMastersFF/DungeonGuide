@@ -40,7 +40,7 @@ Click the Download button, it should install. After that's complete, click the "
 
 
 
-*Example Configuration*
+*Example Configuration C:\Users\yourusername\.picgo\config.json*
 
 ```json
 {

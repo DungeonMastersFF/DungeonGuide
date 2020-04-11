@@ -13,7 +13,7 @@ on this repository for true, up-to-date answers.
     <larecipe-badge type="success" circle class="mr-3" icon="fa fa-heart"></larecipe-badge> Dungeon Master Development Progress
     <larecipe-progress type="warning" :value="20"></larecipe-progress>
 
-
+</larecipe-card>
 
 ---
 
@@ -28,7 +28,3 @@ on this repository for true, up-to-date answers.
 | Lodestone Integration / API | Planning    | 3        |
 | Game Database               | Planning    | 3        |
 | Meta Tools                  | Planning    | 3        |
-
-
-
-</larecipe-card>

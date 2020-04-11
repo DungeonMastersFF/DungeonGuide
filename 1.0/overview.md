@@ -13,3 +13,5 @@ on this repository for true, up-to-date answers.
     <larecipe-badge type="success" circle class="mr-3" icon="fa fa-heart"></larecipe-badge> Dungeon Master Development Progress
     <larecipe-progress type="warning" :value="20"></larecipe-progress>
 </larecipe-card>
+
+![](https://i.loli.net/2020/04/11/dbZ9I6jgr3FxmKh.png)

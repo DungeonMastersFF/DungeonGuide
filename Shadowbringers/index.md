@@ -1,0 +1,7 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+- ## Dungeons
+- ## Raids
+- ## Trials
+- ## Classes
+    - [DPS](/{{route}}/{{version}}/DPS)

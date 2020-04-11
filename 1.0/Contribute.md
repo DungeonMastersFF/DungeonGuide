@@ -32,7 +32,7 @@ API Token: [https://sm.ms/home/apitoken](https://sm.ms/home/apitoken)
 
 ### Configuration
 
-Go to File > Preferences > Image 
+Go to **File > Preferences > Image** 
 
 Click the Download button, it should install. After that's complete, click the "Open Config File" button. See below for an example configuration.
 
@@ -54,3 +54,4 @@ Click the Download button, it should install. After that's complete, click the "
 }
 ```
 
+Once this is done, you'll be able to add images to your content.
